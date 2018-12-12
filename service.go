@@ -6,7 +6,7 @@ import (
 	"os"
 
 	"github.com/NetWatcher/service"
-	"github.com/mholt/caddy"
+	"github.com/conradoqg/caddy"
 )
 
 var (
